@@ -1,0 +1,8 @@
+# Documentos internos: no se publican en el dominio de demostración
+propuesta/
+README.md
+DEPLOY.md
+start-demo.cmd
+*.md
+.env*
+scripts/

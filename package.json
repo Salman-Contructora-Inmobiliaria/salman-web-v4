@@ -1,0 +1,25 @@
+{
+  "name": "salman-web-v4",
+  "version": "4.0.0",
+  "description": "SALMAN Constructora + Inmobiliaria — Plataforma Web V4",
+  "main": "index.html",
+  "scripts": {
+    "start": "node scripts/dev-server.js",
+    "dev": "node scripts/dev-server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "salman",
+    "constructora",
+    "inmobiliaria",
+    "cartagena",
+    "luxury-real-estate",
+    "lista-cero",
+    "salma-ai"
+  ],
+  "author": "SALMAN S.A.S.",
+  "license": "UNLICENSED",
+  "private": true
+}
